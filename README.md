@@ -1,1 +1,2 @@
 # Design-and-Implement-a-Simple-House-Rental-Management-System
+House rental is a house/apartment/home that can be used by owners and who need a house to determine the time. Homeowners enter information and specifications and how to rent a home after they are registered. The client also after logging in and searching the features of the home that they want, accesses the information of the homeowner. In this case, homeowners can rent their home in the minimum amount of time, and clients will find their home with the least amount of time and cost.
